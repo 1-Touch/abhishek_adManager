@@ -1,0 +1,8 @@
+{
+    "require": {
+        "facebook/graph-sdk": "^5.7",
+        "facebook/php-business-sdk": "6.0.1",
+        "raiym/instagram-php-scraper": "^0.9.7",
+        "cosenary/instagram": "^2.3"
+    }
+}
